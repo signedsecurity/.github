@@ -1,1 +1,1 @@
-# Singned Security.
+# Signed Security.
